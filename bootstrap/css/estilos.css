@@ -1,0 +1,25 @@
+body{
+	background:black;	
+	height:100%;
+	width:100%;
+}
+header{
+	/* width:80%; */
+	text-align:center;
+	/* background:rgba(8, 45, 94, 0.95); */
+	margin:0 auto;
+}
+
+.navbar-color{
+	height:10%;
+	background:rgba(8, 45, 94, 0.95);
+	/* border:none; */
+}
+.img-social{
+  width: 40px;
+  height: 40px;
+}
+img{
+	width:auto;
+	height:auto;
+}
