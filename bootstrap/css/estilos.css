@@ -3,6 +3,9 @@ body{
 	height:100%;
 	width:100%;
 }
+.container{	
+	margin-bottom:10px;
+}
 header{
 	/* width:80%; */
 	text-align:center;
@@ -18,8 +21,21 @@ header{
 .img-social{
   width: 40px;
   height: 40px;
+  bottom:0;
 }
-img{
-	width:auto;
-	height:auto;
+.contenedorSocial{
+	 padding-top:150px;
+}
+img{	
+	margin:auto;
+}
+.margenCom{
+	margin:10px;
+}
+	
+@media (max-width:1100px){
+	
+	.contenedorSocial{
+	 padding-top:0px;
+     }
 }
