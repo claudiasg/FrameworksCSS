@@ -1,5 +1,6 @@
 body{
 	background:url(../img/c3.jpg);	
+	background-attachment: fixed;
 }
 .containerTransparente{
 	background:rgba(224,48,44,0.33);
