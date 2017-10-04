@@ -28,10 +28,21 @@ li{
 p{
 	color:rgb(239,11,76);
 	padding-top:15px;
+	font-size:10px;
+}
+h5{
+	color:rgb(239,11,76);	
+}
+h6{
+	padding:10px;
 }
 .imgFavoritos{
 	padding:3px;
 }
 .historialMargen{
 	margin:10px;
+}
+.imgUsuario{
+	/* width:80%; */
+	
 }
