@@ -1,0 +1,10 @@
+body{
+	background:#ffffff url(../img/f1.jpg) no-repeat center bottom;	
+	background-attachment: fixed;
+}
+.containerTransparente{
+	background:rgba(224,48,44,0);
+	width:80%;
+	margin:auto;
+	border-bottom:20px;
+}
