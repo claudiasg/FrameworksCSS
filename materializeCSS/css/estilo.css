@@ -1,10 +1,30 @@
 body{
-	background:#ffffff url(../img/f1.jpg) no-repeat center bottom;	
-	background-attachment: fixed;
+	background:#82b1ff url(../img/fondo1.png) no-repeat center bottom;	
+	background-attachment: fixed;		
+	border-top:20px;
+	padding:20px;
 }
 .containerTransparente{
 	background:rgba(224,48,44,0);
-	width:80%;
+	width:95%;
 	margin:auto;
-	border-bottom:20px;
+	/* border-bottom:20px; */
+}
+.spanSlogan{
+	padding-bottom:0px;
+}
+.logo{
+	height:100px;
+}
+.imgRedes{
+	height:60px;
+}
+.imgG1{
+	height:auto;
+	width:100%;
+}
+.imgAutor{
+	height:auto;
+	width:150px;
+	text-align:center;
 }
